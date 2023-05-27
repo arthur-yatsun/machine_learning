@@ -1,3 +1,6 @@
 [submodule "genetic_algorithm"]
 	path = genetic_algorithm
 	url = git@github.com:arthur-yatsun/genetic_algorithm.git
+[submodule "robot_dreams_data_science"]
+	path = robot_dreams_data_science
+	url = git@github.com:arthur-yatsun/robot_dreams_data_science.git
