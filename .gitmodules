@@ -4,3 +4,6 @@
 [submodule "robot_dreams_data_science"]
 	path = robot_dreams_data_science
 	url = git@github.com:arthur-yatsun/robot_dreams_data_science.git
+[submodule "ds_EDA"]
+	path = ds_EDA
+	url = git@github.com:arthur-yatsun/ds_EDA.git
